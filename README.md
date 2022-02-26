@@ -5,4 +5,4 @@
 
 #### Where to find me
 
-- [LinkedIn] (https://www.linkedin.com/in/rubencondec/)
+- [LinkedIn](https://www.linkedin.com/in/rubencondec/)
